@@ -5,6 +5,17 @@ My 1st Command Line
 
 build command line application
 
+
+$ node .\index.mjs
+
+------------------------------
+Welcome to the ASIC IPs Tracker
+------------------------------
+The emerging leader in the Semiconductor industry
+------------------------------
+We provide expertise in the following areas:
+Electronic Design Automation, JavaScript, HTML, ASIC CAD Support
+
 Turns out  with javascript, you can create your own command-line and backend. Let's try this:
 
 1. Write a node app that list your professional credentials (make it as much fun as you can, think of it as a resume)
